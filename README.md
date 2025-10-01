@@ -5,6 +5,7 @@ Hardware & Kernel DRM Driver for RPI DSI Displays.
 
 forked from [CNflysky/RPI_DSI_Displays](https://github.com/CNflysky/RPI_DSI_Displays)
 
+Using Raspberry Pi 5B
 Limited energy, only used for my 3.97-inch ST7701S screen adaptation
 Parameters are as follows
 3.97-inch 480 * 800 resolution ST7701 driver
